@@ -1,1 +1,2 @@
-Hi this is chapter 3 of git local rep.
+Hi this is chapter 3 of git local rep.new text added to check updates
+Alien 3 attacks chapter 3 with full force with the help of dinosour of GoT.
